@@ -1,0 +1,23 @@
+{
+	"name": "digitalOcean-webpack",
+	"version": "1.0.0",
+	"description": "digitalOcean-webpack",
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/theleonsantana/digitalOcean-webpack.git"
+	},
+	"keywords": [],
+	"author": "Leonardo Santana",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/theleonsantana/digitalOcean-webpack/issues"
+	},
+	"homepage": "https://github.com/theleonsantana/digitalOcean-webpack#readme",
+	"dependencies": {
+		"express": "^4.17.1"
+	}
+}
